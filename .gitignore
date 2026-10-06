@@ -1,0 +1,16 @@
+# Certbot / Let's Encrypt data
+etc/
+lib/
+
+# Private keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Environment files
+.env
+
+# Editor / OS files
+.DS_Store
+*.swp
